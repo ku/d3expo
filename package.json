@@ -1,16 +1,22 @@
 {
-  "name": "d3js",
+  "name": "d3expo",
   "version": "0.0.0",
   "description": "Hello Expo!",
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
-    "d3": "^4.10.0",
+    "d3": "4.10.0",
+    "d3-axis": "^1.0.8",
+    "d3-line": "0.0.1",
     "d3-selection": "^1.1.0",
-    "expo": "^19.0.0",
+    "d3-line": "0.0.1",
+    "d3-scale": "^1.0.6",
+    "expo": "^20.0.0",
     "react": "16.0.0-alpha.12",
-    "react-faux-dom": "^4.0.3",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-19.0.0.tar.gz"
+    "react-faux-dom": "https://github.com/ku/react-faux-dom.git",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz"
+  },
+  "devDependencies": {
   }
 }
