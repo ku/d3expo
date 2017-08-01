@@ -1,0 +1,16 @@
+{
+  "name": "d3js",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "d3": "^4.10.0",
+    "d3-selection": "^1.1.0",
+    "expo": "^19.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-faux-dom": "^4.0.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-19.0.0.tar.gz"
+  }
+}
